@@ -16,8 +16,10 @@ The Basics of a README.md
 
 A README.md is essentially a file written in Markdown. Markdown is a super simple markup language that lets you format text. Here’s a small example:
 
-<div style="display: flex; gap: 20px;">
-<div style="width: 50%;">
+<div align="center">
+<table>
+<tr>
+<td>
 <h3>Code</h3>
 
 ```md
@@ -30,8 +32,8 @@ Here’s a paragraph with **bold text** and *italic text*.
 
 [A cool link](https://github.com)
 ```
-</div>
-<div style="width: 50%;">
+</td>
+<td>
 <h3>Preview</h3>
 
 # Main Title
@@ -42,7 +44,8 @@ Here’s a paragraph with **bold text** and *italic text*.
 - With multiple items
 
 [A cool link](https://github.com)
-</div>
+</tr>
+</table>
 </div>
 
 The Structure of a README.md
@@ -53,8 +56,10 @@ A good README often follows a clear and logical structure. Here’s what I recom
 
 Start with a catchy title and a short description. Explain in a few sentences what your project does and why it’s awesome.
 
-<div style="display: flex; gap: 20px;">
-<div style="width: 50%;">
+<div align="center">
+<table>
+<tr>
+<td>
 <h3>Code</h3>
 
 ```md
@@ -62,22 +67,25 @@ Start with a catchy title and a short description. Explain in a few sentences wh
 
 Description
 ```
-</div>
-<div style="width: 50%;">
+</td>
+<td>
 <h3>Preview</h3>
 
 # Name of Project
 
 Description
-</div>
+</tr>
+</table>
 </div>
 
 2. Table of Contents (Optional)
 
 For longer READMEs, a table of contents helps with navigation.
 
-<div style="display: flex; gap: 20px;">
-<div style="width: 50%;">
+<div align="center">
+<table>
+<tr>
+<td>
 <h3>Code</h3>
 
 ```
@@ -89,8 +97,8 @@ For longer READMEs, a table of contents helps with navigation.
 - [Contributing](#contributing)
 - [License](#license)
 ```
-</div>
-<div style="width: 50%;">
+</td>
+<td>
 <h3>Preview</h3>
 
 ## Table of Contents
@@ -100,6 +108,7 @@ For longer READMEs, a table of contents helps with navigation.
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
-</div>
+</tr>
+</table>
 </div>
 
