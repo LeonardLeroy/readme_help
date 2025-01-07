@@ -24,7 +24,7 @@ The Basics of a README.md
 A README.md is essentially a file written in Markdown. Markdown is a super simple markup language that lets you format text. Here’s a small example:
 
 <div align="center">
-<table border="1" style="width: 100%; table-layout: fixed;">
+<table border="1">
 <tr>
 <th style="width: 50%;">
 <h3>Code</h3>
@@ -34,7 +34,7 @@ A README.md is essentially a file written in Markdown. Markdown is a super simpl
 </th>
 </tr>
 <tr>
-<td style="width: 50%; vertical-align: top;">
+<td>
 
 ```md
 # Main Title
@@ -47,7 +47,7 @@ Here’s a paragraph with **bold text** and *italic text*.
 [A cool link](https://github.com)
 ```
 </td>
-<td style="width: 50%; vertical-align: top;">
+<td>
 
 # Main Title
 ## Subtitle
@@ -70,17 +70,17 @@ A good README often follows a clear and logical structure. Here’s what I recom
 Start with a catchy title and a short description. Explain in a few sentences what your project does and why it’s awesome.
 
 <div align="center">
-<table border="1" style="width: 100%; table-layout: fixed;">
+<table border="1">
 <tr>
-<th style="width: 50%;">
+<th>
 <h3>Code</h3>
 </th>
-<th style="width: 50%;">
+<th>
 <h3>Preview</h3>
 </th>
 </tr>
 <tr>
-<td style="width: 50%; vertical-align: top;">
+<td>
 
 ```md
 # Name of Project
@@ -88,7 +88,7 @@ Start with a catchy title and a short description. Explain in a few sentences wh
 Description
 ```
 </td>
-<td style="width: 50%; vertical-align: top;">
+<td>
 
 # Name of Project
 
@@ -103,17 +103,17 @@ Description
 For longer READMEs, a table of contents helps with navigation.
 
 <div align="center">
-<table border="1" style="width: 100%; table-layout: fixed;">
+<table border="1">
 <tr>
-<th style="width: 50%;">
+<th>
 <h3>Code</h3>
 </th>
-<th style="width: 50%;">
+<th>
 <h3>Preview</h3>
 </th>
 </tr>
 <tr>
-<td style="width: 50%; vertical-align: top;">
+<td>
 
 ```md
 ## Table of Contents
@@ -125,7 +125,7 @@ For longer READMEs, a table of contents helps with navigation.
 - [License](#license)
 ```
 </td>
-<td style="width: 50%; vertical-align: top;">
+<td>
 
 ## Table of Contents
 
@@ -141,17 +141,17 @@ For longer READMEs, a table of contents helps with navigation.
 You can also create checkboxes very easily
 
 <div align="center">
-<table border="1" style="width: 100%; table-layout: fixed;">
+<table border="1">
 <tr>
-<th style="width: 50%;">
+<th>
 <h3>Code</h3>
 </th>
-<th style="width: 50%;">
+<th>
 <h3>Preview</h3>
 </th>
 </tr>
 <tr>
-<td style="width: 50%; vertical-align: top;">
+<td>
 
 ```md
 ## Checkboxes
@@ -161,7 +161,7 @@ I am:
 - [x] Perfect
 ```
 </td>
-<td style="width: 50%; vertical-align: top;">
+<td>
 
 ## Checkboxes
 
@@ -177,17 +177,17 @@ Text Effects:
 You can apply a variety of text effects in Markdown, such as:
 
 <div align="center">
-<table border="1" style="width: 100%; table-layout: fixed;">
+<table border="1">
 <tr>
-<th style="width: 50%;">
+<th>
 <h3>Code</h3>
 </th>
-<th style="width: 50%;">
+<th>
 <h3>Preview</h3>
 </th>
 </tr>
 <tr>
-<td style="width: 50%; vertical-align: top;">
+<td>
 
 ```md
 *italic*
@@ -211,7 +211,7 @@ H<sub>2</sub>
 | Value 1   | Value 2   |
 ```
 </td>
-<td style="width: 50%; vertical-align: top;">
+<td>
 
 *italic*
 
@@ -247,17 +247,17 @@ Next tp `?lines=` add sentences you want separated by `;`. Ps: Replace spaces by
 You can also modify other options: [see here](https://github.com/DenverCoder1/readme-typing-svg)
 
 <div align="center">
-<table border="1" style="width: 100%; table-layout: fixed;">
+<table border="1">
 <tr>
-<th style="width: 50%;">
+<th>
 <h3>Code</h3>
 </th>
-<th style="width: 50%;">
+<th>
 <h3>Preview</h3>
 </th>
 </tr>
 <tr>
-<td style="width: 50%; vertical-align: top;">
+<td>
 
 ```md
 <p align="center">
@@ -269,7 +269,7 @@ vCenter=true&pause=1000&size=22"/>
 </p>
 ```
 </td>
-<td style="width: 50%; vertical-align: top;">
+<td>
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
