@@ -181,34 +181,32 @@ Text effects:
 <td>
 
 ```
-*italique*
-_italique_
-**gras**
-***gras et italique***
-~~barré~~
+*italic*
+_italic_
+**bold**
+***bold and italic***
+~~strikethrough~~
 `code`
 H<sup>2</sup>
 H<sub>2</sub>
-<span style="color:red;">texte coloré</span>
-| Colonne 1 | Colonne 2 |
+| Column 1  | Column 2  |
 |-----------|-----------|
-| Valeur 1  | Valeur 2  |
+| Value 1   | Value 2   |
 ```
 </td>
 <td>
 
-*italique*<br>
-_italique_<br>
-**gras**<br>
-***gras et italique***<br>
-~~barré~~<br>
+*italic*<br>
+_italic_<br>
+**bold**<br>
+***bold and italic***<br>
+~~strikethrough~~<br>
 `code`<br>
 H<sup>2</sup><br>
 H<sub>2</sub><br>
-<span style="color:red;">texte coloré</span>
-| Colonne 1 | Colonne 2 |
+| Column 1  | Column 2  |
 |-----------|-----------|
-| Valeur 1  | Valeur 2  |
+| Value 1   | Value 2   |
 </tr>
 </table>
 </div>
