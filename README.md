@@ -306,3 +306,44 @@ vCenter=true&pause=1000&size=22"/>
 </tr>
 </table>
 </div>
+
+### Emojis
+
+By [Ikatyang](https://github.com/ikatyang/emoji-cheat-sheet)
+
+You can easily display emojis on GitHub. To help you find the code to display emojis, Ikatyang has created a database
+
+<div align="center">
+<table border="1">
+<tr>
+<th>
+<h3>Code</h3>
+</th>
+</tr>
+<tr>
+<td>
+
+```md
+- grinning: :grinning:
+- genie_man: :genie_man:
+- fish_cake: :fish_cake:
+- trollface: :trollface:
+```
+</td>
+</tr>
+<tr>
+<th>
+<h3>Preview</h3>
+</th>
+</tr>
+<tr>
+<td>
+
+- grinning: :grinning:
+- genie_man: :genie_man:
+- fish_cake: :fish_cake:
+- trollface: :trollface:
+</td>
+</tr>
+</table>
+</div>
