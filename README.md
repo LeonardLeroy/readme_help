@@ -149,7 +149,7 @@ You can also create checkboxes very easily
 ```
 ## Checkboxes
 
-I am
+I am:
 - [ ] Dumb
 - [x] Perfect
 ```
@@ -158,9 +158,59 @@ I am
 
 ## Checkboxes
 
-I am
+I am:
 - [ ] Dumb
 - [x] Perfect
+</tr>
+</table>
+</div>
+
+Text effects:
+
+<div align="center">
+<table border="1">
+<tr>
+<th>
+<h3>Code</h3>
+</th>
+<th>
+<h3>Preview</h3>
+</th>
+</tr>
+<tr>
+<td>
+
+```
+*italique*
+_italique_
+**gras**
+***gras et italique***
+~~barré~~
+<u>souligné</u>
+`code`
+| Colonne 1 | Colonne 2 |
+|-----------|-----------|
+| Valeur 1  | Valeur 2  |
+H<sup>2</sup>
+H<sub>2</sub>
+<span style="color:red;">texte coloré</span>
+```
+</td>
+<td>
+
+*italique*
+_italique_
+**gras**
+***gras et italique***
+~~barré~~
+<u>souligné</u>
+`code`
+| Colonne 1 | Colonne 2 |
+|-----------|-----------|
+| Valeur 1  | Valeur 2  |
+H<sup>2</sup>
+H<sub>2</sub>
+<span style="color:red;">texte coloré</span>
 </tr>
 </table>
 </div>
