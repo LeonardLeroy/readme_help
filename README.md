@@ -186,14 +186,13 @@ _italique_
 **gras**
 ***gras et italique***
 ~~barré~~
-<u>souligné</u>
 `code`
-| Colonne 1 | Colonne 2 |
-|-----------|-----------|
-| Valeur 1  | Valeur 2  |
 H<sup>2</sup>
 H<sub>2</sub>
 <span style="color:red;">texte coloré</span>
+| Colonne 1 | Colonne 2 |
+|-----------|-----------|
+| Valeur 1  | Valeur 2  |
 ```
 </td>
 <td>
@@ -203,14 +202,13 @@ _italique_<br>
 **gras**<br>
 ***gras et italique***<br>
 ~~barré~~<br>
-<u>souligné</u><br>
 `code`<br>
-| Colonne 1 | Colonne 2 |
-|-----------|-----------|
-| Valeur 1  | Valeur 2  |<br>
 H<sup>2</sup><br>
 H<sub>2</sub><br>
 <span style="color:red;">texte coloré</span>
+| Colonne 1 | Colonne 2 |
+|-----------|-----------|
+| Valeur 1  | Valeur 2  |
 </tr>
 </table>
 </div>
