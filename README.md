@@ -1,5 +1,12 @@
 # README HELP
 
+## Table of Contents
+
+- [Basics](#Basics)
+- [Cool Features](#Cool-Features)
+
+## Basics
+
 Do you want to be better than betters who are better than betters? I think no but i will consider yes!
 
 How to Write a Quality README.md for GitHub?
@@ -146,7 +153,7 @@ You can also create checkboxes very easily
 <tr>
 <td>
 
-```
+```md
 ## Checkboxes
 
 I am:
@@ -165,7 +172,9 @@ I am:
 </table>
 </div>
 
-Text effects:
+Text Effects:
+
+You can apply a variety of text effects in Markdown, such as:
 
 <div align="center">
 <table border="1">
@@ -180,15 +189,23 @@ Text effects:
 <tr>
 <td>
 
-```
+```md
 *italic*
+
 _italic_
+
 **bold**
+
 ***bold and italic***
+
 ~~strikethrough~~
+
 `code`
+
 H<sup>2</sup>
+
 H<sub>2</sub>
+
 | Column 1  | Column 2  |
 |-----------|-----------|
 | Value 1   | Value 2   |
@@ -196,17 +213,67 @@ H<sub>2</sub>
 </td>
 <td>
 
-*italic*<br>
-_italic_<br>
-**bold**<br>
-***bold and italic***<br>
-~~strikethrough~~<br>
-`code`<br>
-H<sup>2</sup><br>
-H<sub>2</sub><br>
+*italic*
+
+_italic_
+
+**bold**
+
+***bold and italic***
+
+~~strikethrough~~
+
+`code`
+
+H<sup>2</sup>
+
+H<sub>2</sub>
+
 | Column 1  | Column 2  |
 |-----------|-----------|
 | Value 1   | Value 2   |
 </tr>
 </table>
 </div>
+
+## Cool Features
+
+### Typing colored text (Typing SVG)
+
+By [DenverCoder1](https://github.com/DenverCoder1/readme-typing-svg)
+
+Next tp `?lines=` add sentences you want separated by `;`. Ps: Replace spaces by `%20`
+
+You can also modify other options: [see here](https://github.com/DenverCoder1/readme-typing-svg)
+
+<div align="center">
+<table border="1">
+<tr>
+<th>
+<h3>Code</h3>
+</th>
+<th>
+<h3>Preview</h3>
+</th>
+</tr>
+<tr>
+<td>
+
+```md
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?lines=Typing%20;colored%20text;Sty'%20hihi&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"/>
+</a>
+</p>
+```
+</td>
+<td>
+
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?lines=Typing%20;colored%20text;Sty'%20hihi&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"/>
+</tr>
+</table>
+</div>
+</a>
+</p>
