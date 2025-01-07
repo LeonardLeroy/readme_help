@@ -198,18 +198,18 @@ H<sub>2</sub>
 </td>
 <td>
 
-*italique*
-_italique_
-**gras**
-***gras et italique***
-~~barré~~
-<u>souligné</u>
-`code`
+*italique*<br>
+_italique_<br>
+**gras**<br>
+***gras et italique***<br>
+~~barré~~<br>
+<u>souligné</u><br>
+`code`<br>
 | Colonne 1 | Colonne 2 |
 |-----------|-----------|
-| Valeur 1  | Valeur 2  |
-H<sup>2</sup>
-H<sub>2</sub>
+| Valeur 1  | Valeur 2  |<br>
+H<sup>2</sup><br>
+H<sub>2</sub><br>
 <span style="color:red;">texte coloré</span>
 </tr>
 </table>
