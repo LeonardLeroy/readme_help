@@ -108,7 +108,7 @@ For longer READMEs, a table of contents helps with navigation.
 <tr>
 <td>
 
-```
+```md
 ## Table of Contents
 
 - [Installation](#installation)
@@ -131,3 +131,36 @@ For longer READMEs, a table of contents helps with navigation.
 </table>
 </div>
 
+You can also create checkboxes very easily
+
+<div align="center">
+<table border="1">
+<tr>
+<th>
+<h3>Code</h3>
+</th>
+<th>
+<h3>Preview</h3>
+</th>
+</tr>
+<tr>
+<td>
+
+```
+## Checkboxes
+
+I am
+- [ ] Dumb
+- [x] Perfect
+```
+</td>
+<td>
+
+## Checkboxes
+
+I am
+- [ ] Dumb
+- [x] Perfect
+</tr>
+</table>
+</div>
