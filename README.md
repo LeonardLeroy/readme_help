@@ -24,13 +24,10 @@ The Basics of a README.md
 A README.md is essentially a file written in Markdown. Markdown is a super simple markup language that lets you format text. Here’s a small example:
 
 <div align="center">
-<table border="1" style="width: 100%">
+<table border="1">
 <tr>
-<th style="width: 50%;">
+<th>
 <h3>Code</h3>
-</th>
-<th style="width: 50%;">
-<h3>Preview</h3>
 </th>
 </tr>
 <tr>
@@ -47,6 +44,13 @@ Here’s a paragraph with **bold text** and *italic text*.
 [A cool link](https://github.com)
 ```
 </td>
+</tr>
+<tr>
+<th>
+<h3>Preview</h3>
+</th>
+</tr>
+<tr>
 <td>
 
 # Main Title
@@ -57,6 +61,7 @@ Here’s a paragraph with **bold text** and *italic text*.
 - With multiple items
 
 [A cool link](https://github.com)
+</td>
 </tr>
 </table>
 </div>
@@ -75,9 +80,6 @@ Start with a catchy title and a short description. Explain in a few sentences wh
 <th>
 <h3>Code</h3>
 </th>
-<th>
-<h3>Preview</h3>
-</th>
 </tr>
 <tr>
 <td>
@@ -88,6 +90,13 @@ Start with a catchy title and a short description. Explain in a few sentences wh
 Description
 ```
 </td>
+</tr>
+<tr>
+<th>
+<h3>Preview</h3>
+</th>
+</tr>
+<tr>
 <td>
 
 # Name of Project
@@ -108,9 +117,6 @@ For longer READMEs, a table of contents helps with navigation.
 <th>
 <h3>Code</h3>
 </th>
-<th>
-<h3>Preview</h3>
-</th>
 </tr>
 <tr>
 <td>
@@ -125,6 +131,13 @@ For longer READMEs, a table of contents helps with navigation.
 - [License](#license)
 ```
 </td>
+</tr>
+<tr>
+<th>
+<h3>Preview</h3>
+</th>
+</tr>
+<tr>
 <td>
 
 ## Table of Contents
@@ -134,6 +147,7 @@ For longer READMEs, a table of contents helps with navigation.
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
+</td>
 </tr>
 </table>
 </div>
@@ -146,9 +160,6 @@ You can also create checkboxes very easily
 <th>
 <h3>Code</h3>
 </th>
-<th>
-<h3>Preview</h3>
-</th>
 </tr>
 <tr>
 <td>
@@ -161,6 +172,13 @@ I am:
 - [x] Perfect
 ```
 </td>
+</tr>
+<tr>
+<th>
+<h3>Preview</h3>
+</th>
+</tr>
+<tr>
 <td>
 
 ## Checkboxes
@@ -168,6 +186,7 @@ I am:
 I am:
 - [ ] Dumb
 - [x] Perfect
+</td>
 </tr>
 </table>
 </div>
@@ -182,9 +201,6 @@ You can apply a variety of text effects in Markdown, such as:
 <th>
 <h3>Code</h3>
 </th>
-<th>
-<h3>Preview</h3>
-</th>
 </tr>
 <tr>
 <td>
@@ -211,6 +227,13 @@ H<sub>2</sub>
 | Value 1   | Value 2   |
 ```
 </td>
+</tr>
+<tr>
+<th>
+<h3>Preview</h3>
+</th>
+</tr>
+<tr>
 <td>
 
 *italic*
@@ -232,6 +255,7 @@ H<sub>2</sub>
 | Column 1  | Column 2  |
 |-----------|-----------|
 | Value 1   | Value 2   |
+</td>
 </tr>
 </table>
 </div>
@@ -252,9 +276,6 @@ You can also modify other options: [see here](https://github.com/DenverCoder1/re
 <th>
 <h3>Code</h3>
 </th>
-<th>
-<h3>Preview</h3>
-</th>
 </tr>
 <tr>
 <td>
@@ -269,13 +290,19 @@ vCenter=true&pause=1000&size=22"/>
 </p>
 ```
 </td>
+</tr>
+<tr>
+<th>
+<h3>Preview</h3>
+</th>
+</tr>
+<tr>
 <td>
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?lines=Typing%20;colored%20text;Sty'%20hihi&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Typing%20colored%20text;Sty'%20hihi&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"/>
+</td>
 </tr>
 </table>
 </div>
-</a>
-</p>
