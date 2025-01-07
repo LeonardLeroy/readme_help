@@ -17,10 +17,17 @@ The Basics of a README.md
 A README.md is essentially a file written in Markdown. Markdown is a super simple markup language that lets you format text. Here’s a small example:
 
 <div align="center">
-<table>
+<table border="1">
+<tr>
+<th>
+<h3>Code</h3>
+</th>
+<th>
+<h3>Preview</h3>
+</th>
+</tr>
 <tr>
 <td>
-<h3>Code</h3>
 
 ```md
 # Main Title
@@ -34,7 +41,6 @@ Here’s a paragraph with **bold text** and *italic text*.
 ```
 </td>
 <td>
-<h3>Preview</h3>
 
 # Main Title
 ## Subtitle
@@ -57,10 +63,17 @@ A good README often follows a clear and logical structure. Here’s what I recom
 Start with a catchy title and a short description. Explain in a few sentences what your project does and why it’s awesome.
 
 <div align="center">
-<table>
+<table border="1">
+<tr>
+<th>
+<h3>Code</h3>
+</th>
+<th>
+<h3>Preview</h3>
+</th>
+</tr>
 <tr>
 <td>
-<h3>Code</h3>
 
 ```md
 # Name of Project
@@ -69,11 +82,11 @@ Description
 ```
 </td>
 <td>
-<h3>Preview</h3>
 
 # Name of Project
 
 Description
+</td>
 </tr>
 </table>
 </div>
@@ -83,10 +96,17 @@ Description
 For longer READMEs, a table of contents helps with navigation.
 
 <div align="center">
-<table>
+<table border="1">
+<tr>
+<th>
+<h3>Code</h3>
+</th>
+<th>
+<h3>Preview</h3>
+</th>
+</tr>
 <tr>
 <td>
-<h3>Code</h3>
 
 ```
 ## Table of Contents
@@ -99,7 +119,6 @@ For longer READMEs, a table of contents helps with navigation.
 ```
 </td>
 <td>
-<h3>Preview</h3>
 
 ## Table of Contents
 
