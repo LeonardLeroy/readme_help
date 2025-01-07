@@ -19,8 +19,6 @@ A README.md is essentially a file written in Markdown. Markdown is a super simpl
 <div style="display: flex; gap: 20px;">
 <div style="width: 50%;">
 <h3>Code</h3>
-<pre>
-<code>
 
 ```md
 # Main Title
@@ -32,8 +30,6 @@ Here’s a paragraph with **bold text** and *italic text*.
 
 [A cool link](https://github.com)
 ```
-</code>
-</pre>
 </div>
 <div style="width: 50%;">
 <h3>Preview</h3>
@@ -60,16 +56,12 @@ Start with a catchy title and a short description. Explain in a few sentences wh
 <div style="display: flex; gap: 20px;">
 <div style="width: 50%;">
 <h3>Code</h3>
-<pre>
-<code>
 
 ```md
 # Name of Project
 
 Description
 ```
-</code>
-</pre>
 </div>
 <div style="width: 50%;">
 <h3>Preview</h3>
@@ -87,8 +79,6 @@ For longer READMEs, a table of contents helps with navigation.
 <div style="display: flex; gap: 20px;">
 <div style="width: 50%;">
 <h3>Code</h3>
-<pre>
-<code>
 
 ```
 ## Table of Contents
@@ -99,8 +89,6 @@ For longer READMEs, a table of contents helps with navigation.
 - [Contributing](#contributing)
 - [License](#license)
 ```
-</code>
-</pre>
 </div>
 <div style="width: 50%;">
 <h3>Preview</h3>
