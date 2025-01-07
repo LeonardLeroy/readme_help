@@ -24,7 +24,7 @@ The Basics of a README.md
 A README.md is essentially a file written in Markdown. Markdown is a super simple markup language that lets you format text. Here’s a small example:
 
 <div align="center">
-<table border="1">
+<table border="1" style="width: 100%">
 <tr>
 <th style="width: 50%;">
 <h3>Code</h3>
