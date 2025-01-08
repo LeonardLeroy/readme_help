@@ -3,31 +3,33 @@
 ## Table of Contents
 
 - [Basics](#Basics)
-    - [The Basics](#The-Basics-of-a-README.md)
-    - [The Structure](#The-Structure-of-a-README.md)
+    - [The Basics](#The-Basics-of-a-README)
+    - [The Structure](#The-Structure-of-a-README)
     - [Features](#Features)
         - [Checkboxes](#Checkboxes)
         - [Text Effect](#Text-Effect)
     - [Keep in Mind](#Things-to-keep-in-Mind)
 - [Cool Features](#Cool-Features)
+    - [Typing SVG](#Typing-SVG)
+    - [Emojis](#Emojis)
 
 ## Basics
 
 > Do you want to be better than betters who are better than betters? I think not but i will consider yes!
 
-How to Write a Kickass README.md?
+How to Write a Kickass README?
 
 Hello, fellow devs! 😄 Whether you’re new to GitHub or just looking to level up your README game, you’re in the perfect spot. I’ve rounded up the best tips to help you craft a README that’s as awesome as your project (if not more). Let’s dive in!
 
-Why Does a Great README.md Matter?
+Why Does a Great README Matter?
 
 Picture this: you stumble upon a GitHub project that sounds amazing. You click on the README… and it’s either blank or looks like a cryptic puzzle. Frustrated, you bounce to the next repo.
 
 Your README is the front door of your project. It’s what hooks developers, contributors, and even recruiters (wink wink 😉). A great README isn’t just nice, it’s essential. Make it clear, make it fun, and most importantly, make people want to stay.
 
-### The Basics of a README.md
+### The Basics of a README
 
-At its core, a README.md is just a file written in Markdown, a ridiculously simple markup language that makes your text look pretty without giving you a headache. Think of it as the HTML for people who don’t want to fight with HTML.
+At its core, a README is just a file written in Markdown, a ridiculously simple markup language that makes your text look pretty without giving you a headache. Think of it as the HTML for people who don’t want to fight with HTML.
 
 Here’s a quick example to flex its magic:
 
@@ -45,7 +47,7 @@ Here’s a quick example to flex its magic:
 # My Amazing Project  
 Welcome to the **best project ever**.  
 
-## Features  
+## Features :P
 - Lightning-fast performance ⚡  
 - Completely open-source 👐  
 - Powered by coffee ☕  
@@ -66,7 +68,7 @@ Welcome to the **best project ever**.
 # My Amazing Project  
 Welcome to the **best project ever**.  
 
-## Features  
+## Features :P
 - Lightning-fast performance ⚡  
 - Completely open-source 👐  
 - Powered by coffee ☕  
@@ -78,7 +80,7 @@ Welcome to the **best project ever**.
 </table>
 </div>
 
-### The Structure of a README.md
+### The Structure of a README
 
 A great README follows a clear, logical structure, like assembling IKEA furniture, but without the confusing diagrams. Here’s the blueprint I swear by:
 
@@ -283,10 +285,6 @@ Markdown is awesome, but it’s not perfect. You can use HTML in Markdown, but w
 What You Can Use:
 
 - Basic HTML Tags: `<div>`, `<span>`, `<br>`, `<img>`, and friends.
-- Inline Styling: Need a splash of color? <span style="color: red;">HTML</span> can help:
-```md
-<span style="color: red;">HTML</span>
-```
 - Tables: If Markdown tables feel clunky, HTML tables work like a charm.
 
 What You Can’t Use:
@@ -301,7 +299,7 @@ When in doubt, stick to Markdown for simplicity, but feel free to sprinkle in so
 
 Your README doesn’t have to be just plain text, it can stand out with fun, reusable projects from other developers! These gems add extra flair and functionality to your README, making it as cool as your code. 😎
 
-### Typing colored text (Typing SVG)
+### Typing SVG
 
 Courtesy of [DenverCoder1](https://github.com/DenverCoder1), this project lets you add animated typing effects to your README. Perfect for grabbing attention!
 
