@@ -7,7 +7,7 @@
     - [The Structure](#The-Structure-of-a-README)
     - [Features](#Features)
         - [Checkboxes](#Checkboxes)
-        - [Text Effect](#Text-Effect)
+        - [Text Effects](#Text-Effects)
     - [Keep in Mind](#Things-to-keep-in-Mind)
 - [Cool Features](#Cool-Features)
     - [Typing SVG](#Typing-SVG)
