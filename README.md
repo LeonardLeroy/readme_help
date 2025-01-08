@@ -283,7 +283,7 @@ You can also modify other options: [see here](https://github.com/DenverCoder1/re
 ```md
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?lines=Typing%20;colored%20text;
+<img src="https://readme-typing-svg.demolab.com/?lines=Typing%20colored%20text;
 Sty'%20hihi&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&
 vCenter=true&pause=1000&size=22"/>
 </a>
