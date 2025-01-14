@@ -12,6 +12,7 @@
 - [Cool Features](#Cool-Features)
     - [Typing SVG](#Typing-SVG)
     - [Emojis](#Emojis)
+    - [Readme Stats](#Readme-Stats)
 
 ## Basics
 
@@ -393,3 +394,56 @@ Simply wrap the emoji code in colons, like this:
 Want to explore the full emoji menu? Check out the [emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet) and add some personality to your README.
 
 Because who doesn’t love a README with a little 🌈 and 🎉?
+
+### Readme Stats
+
+Want to show off your GitHub activity and prove that yours is the most impressive (Mine is bigger)? 📈 Enter GitHub Stats by [Anuraghazra](https://github.com/anuraghazra).
+
+This handy tool lets you display cool stats like:
+
+- Total contributions 🏆
+- Most used languages 💻
+- Fancy graphs and charts 📊
+
+Here’s a quick example of how to use it:
+
+<div align="center">
+<table border="1">
+<tr>
+<th>
+<h3>Code</h3>
+</th>
+</tr>
+<tr>
+<td>
+
+```md
+<img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivicatcHub&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8"
+    alt="Most Used Languages"/>
+</br>
+<img
+    src="https://github-readme-stats.vercel.app/api?username=VivicatcHub&show_icons=true&theme=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true&rank_icon=percentile"
+    alt="Stats"/>
+```
+</td>
+</tr>
+<tr>
+<th>
+<h3>Preview</h3>
+</th>
+</tr>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivicatcHub&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8" alt="Most Used Languages"/>
+</br>
+<img src="https://github-readme-stats.vercel.app/api?username=VivicatcHub&show_icons=true&theme=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true&rank_icon=percentile" alt="Stats"/>
+</td>
+</tr>
+</table>
+</div>
+
+Replace YourUsername with your GitHub handle, and boom, you’ve got a sleek, customizable stats card for your README. For more options and themes, check out [Anuraghazra’s repo](https://github.com/anuraghazra/github-readme-stats).
+
+Because who doesn’t love flexing those contribution graphs? 💪😏
