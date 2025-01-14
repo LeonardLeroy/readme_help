@@ -322,9 +322,16 @@ Here’s how it works:
 ```md
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?lines=Typing%20colored%20text;
-Sty'%20hihi&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&
-vCenter=true&pause=1000&size=22"/>
+<img src="https://readme-typing-svg.demolab.com/
+            ?lines=Typing%20colored%20text;Sty'%20hihi
+            &font=Fira%20Code
+            &center=true
+            &width=440
+            &height=45
+            &color=f75c7e
+            &vCenter=true
+            &pause=1000
+            &size=22"/>
 </a>
 </p>
 ```
@@ -418,12 +425,27 @@ Here’s a quick example of how to use it:
 <td>
 
 ```md
-<img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivicatcHub&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8"
+<img src="https://github-readme-stats.vercel.app/api
+            /top-langs/
+            ?username=VivicatcHub
+            &layout=compact
+            &theme=transparent
+            &text_color=cdd6f4
+            &hide_border=true
+            &icon_color=cba6f7
+            &title_color=94e2d5
+            &langs_count=8"
     alt="Most Used Languages"/>
 </br>
-<img
-    src="https://github-readme-stats.vercel.app/api?username=VivicatcHub&show_icons=true&theme=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true&rank_icon=percentile"
+<img src="https://github-readme-stats.vercel.app/api
+            ?username=VivicatcHub
+            &show_icons=true
+            &theme=transparent
+            &text_color=cdd6f4
+            &icon_color=cba6f7
+            &title_color=94e2d5
+            &hide_border=true
+            &rank_icon=percentile"
     alt="Stats"/>
 ```
 </td>
