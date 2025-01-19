@@ -8,6 +8,7 @@
     - [Features](#Features)
         - [Checkboxes](#Checkboxes)
         - [Text Effects](#Text-Effects)
+        - [Collapsible Block](#collapsible-block)
     - [Keep in Mind](#Things-to-keep-in-Mind)
 - [Cool Features](#Cool-Features)
     - [Typing SVG](#Typing-SVG)
@@ -278,6 +279,51 @@ H<sub>2</sub>
 </tr>
 </table>
 </div>
+
+#### Collapsible Block
+
+Sometimes, you want to hide some details or give readers the choice to "click to reveal." Markdown makes that easy with collapsible blocks!
+
+Here’s how to create one:
+
+<div align="center">
+<table border="1">
+<tr>
+<th>
+<h3>Code</h3>
+</th>
+</tr>
+<tr>
+<td>
+
+```md
+<details>
+    <summary>Click to be spoiled</summary>
+
+- He dies at the end !
+</details>
+```
+</td>
+</tr>
+<tr>
+<th>
+<h3>Preview</h3>
+</th>
+</tr>
+<tr>
+<td>
+
+<details>
+    <summary>Click to be spoiled</summary>
+
+- He dies at the end !
+</details>
+</td>
+</tr>
+</table>
+</div>
+
+This feature is perfect for spoilers, instructions, or anything you want to keep hidden unless explicitly requested. 😏
 
 ### Things to keep in Mind
 
