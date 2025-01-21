@@ -327,24 +327,7 @@ Here’s how to create one:
 
 This feature is perfect for spoilers, instructions, or anything you want to keep hidden unless explicitly requested. 😏
 
-### Things to keep in Mind
-
-Markdown is awesome, but it’s not perfect. You can use HTML in Markdown, but with a few caveats. Here’s a non-exhaustive list of what works and what doesn’t:
-
-What You Can Use:
-
-- Basic HTML Tags: `<div>`, `<span>`, `<br>`, `<img>`, and friends.
-- Tables: If Markdown tables feel clunky, HTML tables work like a charm.
-
-What You Can’t Use:
-
-- JavaScript: No `<script>` tags—GitHub keeps it safe and secure.
-- CSS Classes: Sorry, no `<div class="fancy">` here. Inline styles only.
-- Interactive HTML: Stuff like `<input>` or `<button>` won’t work as expected.
-
-When in doubt, stick to Markdown for simplicity, but feel free to sprinkle in some HTML magic when Markdown falls short! 🪄
-
-### Special Github Symbols
+#### Special Github Symbols
 
 Did you know GitHub Markdown supports special callouts to make your README pop? Use them to emphasize notes, warnings, or important details.
 
@@ -395,7 +378,7 @@ Here’s how to do it:
 
 Use these symbols to keep your README both informative and visually organized. Perfect for catching the reader’s attention when it really matters! 🚨✨
 
-### Images
+#### Images
 
 Want to spice up your README with some eye candy? Images are the way to go! You can add regular images or make them clickable to direct readers somewhere cool—like your project’s repo or your "Buy Me a Coffee" page. ☕
 
@@ -440,6 +423,23 @@ Here’s the how-to:
 </div>
 
 Pro tip: If you make an image clickable, you’re basically saying, "Hey, this image is cool, but click it to discover something even cooler!" Just don’t Rickroll your audience… unless they deserve it. 😉
+
+### Things to keep in Mind
+
+Markdown is awesome, but it’s not perfect. You can use HTML in Markdown, but with a few caveats. Here’s a non-exhaustive list of what works and what doesn’t:
+
+What You Can Use:
+
+- Basic HTML Tags: `<div>`, `<span>`, `<br>`, `<img>`, and friends.
+- Tables: If Markdown tables feel clunky, HTML tables work like a charm.
+
+What You Can’t Use:
+
+- JavaScript: No `<script>` tags—GitHub keeps it safe and secure.
+- CSS Classes: Sorry, no `<div class="fancy">` here. Inline styles only.
+- Interactive HTML: Stuff like `<input>` or `<button>` won’t work as expected.
+
+When in doubt, stick to Markdown for simplicity, but feel free to sprinkle in some HTML magic when Markdown falls short! 🪄
 
 ## Cool Features
 
