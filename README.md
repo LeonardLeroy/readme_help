@@ -9,6 +9,7 @@
         - [Checkboxes](#Checkboxes)
         - [Text Effects](#Text-Effects)
         - [Collapsible Block](#collapsible-block)
+        - [Special Github Symbols](#special-github-symbols)
     - [Keep in Mind](#Things-to-keep-in-Mind)
 - [Cool Features](#Cool-Features)
     - [Typing SVG](#Typing-SVG)
@@ -355,9 +356,11 @@ When in doubt, stick to Markdown for simplicity, but feel free to sprinkle in so
 <td>
 
 ```md
-[!NOTE]
-[!WARNING]
-[!IMPORTANT]
+> [!NOTE]
+
+> [!WARNING]
+
+> [!IMPORTANT]
 ```
 </td>
 </tr>
@@ -369,9 +372,11 @@ When in doubt, stick to Markdown for simplicity, but feel free to sprinkle in so
 <tr>
 <td>
 
-[!NOTE]
-[!WARNING]
-[!IMPORTANT]
+> [!NOTE]
+
+> [!WARNING]
+
+> [!IMPORTANT]
 </td>
 </tr>
 </table>
