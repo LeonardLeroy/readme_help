@@ -342,6 +342,41 @@ What You Can’t Use:
 
 When in doubt, stick to Markdown for simplicity, but feel free to sprinkle in some HTML magic when Markdown falls short! 🪄
 
+### Special Github Symbols
+
+<div align="center">
+<table border="1">
+<tr>
+<th>
+<h3>Code</h3>
+</th>
+</tr>
+<tr>
+<td>
+
+```md
+[!NOTE]
+[!WARNING]
+[!IMPORTANT]
+```
+</td>
+</tr>
+<tr>
+<th>
+<h3>Preview</h3>
+</th>
+</tr>
+<tr>
+<td>
+
+[!NOTE]
+[!WARNING]
+[!IMPORTANT]
+</td>
+</tr>
+</table>
+</div>
+
 ## Cool Features
 
 Your README doesn’t have to be just plain text, it can stand out with fun, reusable projects from other developers! These gems add extra flair and functionality to your README, making it as cool as your code. 😎
