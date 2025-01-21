@@ -356,11 +356,14 @@ When in doubt, stick to Markdown for simplicity, but feel free to sprinkle in so
 <td>
 
 ```md
-> [!NOTE]
+> [!NOTE]\
+> This is a Note
 
-> [!WARNING]
+> [!WARNING]\
+> This is a Warning
 
-> [!IMPORTANT]
+> [!IMPORTANT]\
+> This is important
 ```
 </td>
 </tr>
@@ -372,11 +375,14 @@ When in doubt, stick to Markdown for simplicity, but feel free to sprinkle in so
 <tr>
 <td>
 
-> [!NOTE]
+> [!NOTE]\
+> This is a Note
 
-> [!WARNING]
+> [!WARNING]\
+> This is a Warning
 
-> [!IMPORTANT]
+> [!IMPORTANT]\
+> This is important
 </td>
 </tr>
 </table>
