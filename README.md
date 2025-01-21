@@ -10,6 +10,7 @@
         - [Text Effects](#Text-Effects)
         - [Collapsible Block](#collapsible-block)
         - [Special Github Symbols](#special-github-symbols)
+        - [Images](#images)
     - [Keep in Mind](#Things-to-keep-in-Mind)
 - [Cool Features](#Cool-Features)
     - [Typing SVG](#Typing-SVG)
@@ -345,6 +346,10 @@ When in doubt, stick to Markdown for simplicity, but feel free to sprinkle in so
 
 ### Special Github Symbols
 
+Did you know GitHub Markdown supports special callouts to make your README pop? Use them to emphasize notes, warnings, or important details.
+
+Here’s how to do it:
+
 <div align="center">
 <table border="1">
 <tr>
@@ -387,6 +392,53 @@ When in doubt, stick to Markdown for simplicity, but feel free to sprinkle in so
 </tr>
 </table>
 </div>
+
+Use these symbols to keep your README both informative and visually organized. Perfect for catching the reader’s attention when it really matters! 🚨✨
+
+### Images
+
+Want to spice up your README with some eye candy? Images are the way to go! You can add regular images or make them clickable to direct readers somewhere cool—like your project’s repo or your "Buy Me a Coffee" page. ☕
+
+Here’s the how-to:
+
+<div align="center">
+<table border="1">
+<tr>
+<th>
+<h3>Code</h3>
+</th>
+</tr>
+<tr>
+<td>
+
+```md
+<!-- Normal image -->
+<img src="https://urlr.me/9DJpcG" align="center" alt="Image">
+
+<!-- Clickable image -->
+[![Link](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://github.com/VivicatcHub)
+```
+</td>
+</tr>
+<tr>
+<th>
+<h3>Preview</h3>
+</th>
+</tr>
+<tr>
+<td>
+
+<!-- Normal image -->
+<img src="https://urlr.me/9DJpcG" align="center" alt="Image">
+
+<!-- Clickable image -->
+[![Link](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://github.com/VivicatcHub)
+</td>
+</tr>
+</table>
+</div>
+
+Pro tip: If you make an image clickable, you’re basically saying, "Hey, this image is cool, but click it to discover something even cooler!" Just don’t Rickroll your audience… unless they deserve it. 😉
 
 ## Cool Features
 
