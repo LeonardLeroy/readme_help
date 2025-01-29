@@ -417,7 +417,7 @@ Here’s the how-to:
 <img src="https://urlr.me/9DJpcG" align="center" alt="Image">
 
 <!-- Clickable image -->
-[![Link](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://github.com/VivicatcHub)
+[![Link](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://ko-fi.com/vivicaty)
 </td>
 </tr>
 </table>
