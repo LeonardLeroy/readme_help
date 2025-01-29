@@ -16,6 +16,7 @@
     - [Typing SVG](#Typing-SVG)
     - [Emojis](#Emojis)
     - [Readme Stats](#Readme-Stats)
+    - [Easy Icons](#Easy-Icons)
 
 ## Basics
 
@@ -614,3 +615,74 @@ Here’s a quick example of how to use it:
 Replace YourUsername with your GitHub handle, and boom, you’ve got a sleek, customizable stats card for your README. For more options and themes, check out [Anuraghazra’s repo](https://github.com/anuraghazra/github-readme-stats).
 
 Because who doesn’t love flexing those contribution graphs? 💪😏
+
+### Easy Icons
+
+> Show Off Your Tech Stack Like a Pro
+
+Why just tell people what languages and tools you use when you can show them? Thanks to [Skillicons](https://github.com/edmartelo/skillicons) by [Edmartelo](https://github.com/edmartelo), you can add slick, minimalist icons for programming languages, tools, and even social media!
+
+<div align="center">
+<table border="1">
+<tr>
+<th>
+<h3>Code</h3>
+</th>
+</tr>
+<tr>
+<td>
+
+```md
+Language Icons
+
+Because a picture is worth a thousand lines of code:
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,js,py" />
+    </a>
+</p>
+
+Media Icons
+
+Let people stalk... uh... follow—you on different platforms:
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=instagram,linkedin,github" />
+    </a>
+</p>
+```
+</td>
+</tr>
+<tr>
+<th>
+<h3>Preview</h3>
+</th>
+</tr>
+<tr>
+<td>
+
+Language Icons
+
+Because a picture is worth a thousand lines of code:
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,js,py" />
+    </a>
+</p>
+
+Media Icons
+
+Let people stalk... uh... follow—you on different platforms:
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=instagram,linkedin,github" />
+    </a>
+</p>
+</td>
+</tr>
+</table>
+</div>
+
+Just tweak the `i=` parameter with the icons you need and voilà, your README just got a whole lot fancier! 🚀
+
+Btw, the entire list is [here](https://github.com/edmartelo/skillicons)
